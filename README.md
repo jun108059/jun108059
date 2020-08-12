@@ -1,9 +1,24 @@
+<!--
+**ujin2021/ujin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ### Hey 👋, I'm Youngjun !
 
 ![Profile views](https://gpvc.arturio.dev/jun108059)
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0084ff?logo=LinkedIn)
-![YouTube](https://img.shields.io/badge/-YouTube-red?logo=Youtube) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0084ff?logo=LinkedIn)](https://www.linkedin.com/in/youngjun-park/)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=Youtube)](https://www.youtube.com/channel/UCkfCmrKGHYkgc7TXi0GbR6w?view_as=subscriber)
 <br />
 
 ---
@@ -45,11 +60,11 @@
 <h3> My favorite Repositories </h3>
 
 <a href="https://github.com/syauqi/learnify">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=til" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=til&theme=bear&show_icons=true" />
 </a>
 </p>
 <a href="https://github.com/syauqi/gameina">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=membership-system" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=membership-system&theme=bear&show_icons=true" />
 </a>
 
 
