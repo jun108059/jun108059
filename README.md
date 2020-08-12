@@ -60,11 +60,11 @@ Here are some ideas to get you started:
 <h3> My favorite Repositories </h3>
 
 <a href="https://github.com/syauqi/learnify">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=til&theme=bear&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=til&theme=vue&show_icons=true" />
 </a>
 </p>
 <a href="https://github.com/syauqi/gameina">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=membership-system&theme=bear&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=membership-system&theme=vue&show_icons=true" />
 </a>
 
 
