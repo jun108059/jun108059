@@ -72,8 +72,8 @@
 
 <h3> My favorite Repositories </h3>
 
-<a href="https://github.com/jun108059/til">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=til&theme=vue&show_icons=true" />
+<a href="https://github.com/jun108059/Elasticsearch-SpringBoot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=elasticsearch-springBoot&theme=vue&show_icons=true" />
 </a>
 </p>
 <a href="https://github.com/jun108059/Membership-System">
