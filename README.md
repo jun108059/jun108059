@@ -1,85 +1,118 @@
 <div align="center">
-  <h1>Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <img src="https://media.giphy.com/media/Mh9zHLBy4YLirzU25L/giphy.gif" alt="tistory" style="vertical-align:top; margin:4px" height="300">
   
-  <h3> I'm Young-jun, highly passionate and self-directed developer<br/>These days, I love Spring, Elasticsearch, kafka😍</h3>
+  <h3> Developing API server based on spring boot. I try to write a code with good design, readability, and scalability. I'm very interested in performance improvement, monitoring, and infrastructure.😍</h3>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youngjun-park/">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="https://www.youtube.com/channel/UCkfCmrKGHYkgc7TXi0GbR6w?view_as=subscriber">
-    <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
-  </a>  
    <a href="https://dev-youngjun.tistory.com/">
-    <img src="svg/blogs/devto.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
+    
+  <img src="https://user-images.githubusercontent.com/42997924/138549996-0e4eadc1-ee0a-41e3-869b-f0ec34b25ade.png" alt="tistory" style="vertical-align:top; margin:4px" height="30">
   </a>
 </p>
 
+---
+
 <div align="center">
   
-  ![Profile views](https://gpvc.arturio.dev/jun108059)  
-
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Back-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 </div>
 
----
-
-<div align="center">
-  <h3>Languages and Tools</h3>
-</div>
-
 <p align="center">
 
-  <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">   
-  <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/42997924/138549989-b579e243-7e5a-4250-b3dc-5af1c1bd3d2c.png" alt="java" style="vertical-align:top; margin:4px" height="40">
 
-  <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/42997924/138550288-2f119ecd-a875-4553-ac47-fecf388ffffd.png" alt="spring boot" style="vertical-align:top;" height="47">
 
+  <img src="https://user-images.githubusercontent.com/42997924/138549994-fe79474a-ed4f-41bb-83f1-daff47ed01e7.png" alt="spring" style="vertical-align:top; margin:4px" height="40" >
 
-  <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <br>
 
+  <img src="https://user-images.githubusercontent.com/42997924/138550027-aff4bebc-e245-44a9-a1eb-069f25b3c88c.png" alt="aws" style="vertical-align:top; margin:4px" height="40">
 
-  <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">    
+  <img src="https://user-images.githubusercontent.com/42997924/138549991-af938f67-d2ea-44b4-8029-1f4c48959bda.png" alt="kubernetes" style="vertical-align:top; margin:4px" height="40">
 
-  <img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/jetbrains_phpstorm.svg" alt="jetbrains_phpstorm" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  
+  <img src="https://user-images.githubusercontent.com/42997924/138549982-b77a1e06-edfa-4290-96f2-bf56867ebe75.png" alt="docker" style="vertical-align:top; margin:4px" height="40">
+
+  <br>
+
+  <img src="https://user-images.githubusercontent.com/42997924/138549983-7e954e6e-7c4a-41a4-8e57-25936ebae210.png" alt="elasticsearch" style="vertical-align:top; margin:4px" height="40">
+
+  <img src="https://user-images.githubusercontent.com/42997924/138549990-5d2e40a6-b5f6-437f-b4d3-5c2d58261990.png" alt="kafka" style="vertical-align:top; margin:1px"  height="47">
+
+  <img src="https://user-images.githubusercontent.com/42997924/138549992-c05e6ccd-605f-4606-92f4-c04be1e5f7b5.png" alt="mysql" style="vertical-align:top; margin:4px" height="40">
+
+  <img src="https://user-images.githubusercontent.com/42997924/138549993-869bc987-af38-4cf0-b6aa-d39c030c555f.png" alt="redis" style="vertical-align:top;" height="47">
+
+  <br>
+
+  <img src="https://user-images.githubusercontent.com/42997924/138549987-31c7403c-5313-40be-9bf9-af281e220aa6.png" alt="jetbrains_intellij" style="vertical-align:top; margin:4px" height="40">
+
+  <img src="https://user-images.githubusercontent.com/42997924/138549981-11bd2ebb-7ef2-4b31-8b53-340a5348bb31.png" alt="bash" style="vertical-align:top; margin:4px" height="43">
+
+  <img src="https://user-images.githubusercontent.com/42997924/138549985-086e5fa7-4dad-4c6a-9398-0da1111454d1.png" alt="github" style="vertical-align:top; margin:4px" height="40">
 
 </p>
-
-
-<details>
-<summary> <b> My Github Statistics📊 </b> <i>(click to expand!)</i> </summary>
-  <br />
-  
- [![Youngjun's github stats](https://github-readme-stats.vercel.app/api?username=jun108059&theme=dracula&show_icons=true)](https://github.com/syauqi/learnify)
- 
-  </details>
 
 ---
 
-<h3> My favorite Repositories </h3>
+<br>
 
-<a href="https://github.com/jun108059/Elasticsearch-SpringBoot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=elasticsearch-springBoot&theme=vue&show_icons=true" />
-</a>
-</p>
-<a href="https://github.com/jun108059/Membership-System">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=membership-system&theme=vue&show_icons=true" />
-</a>
+<details>
+<summary> <b> <img src="https://media.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif" alt="trophy" style="vertical-align:top;" height="25"> My Github Statistics </b> </summary>
+  <br>
+  
+ ![Youngjun's github stats](https://github-readme-stats.vercel.app/api?username=jun108059&theme=dracula&show_icons=true)
+ 
+</details>
 
+<br>
 
+<details>
+<summary> <b> <img src="https://media.giphy.com/media/oUhQb6SSMXEDnvBnbJ/giphy.gif" alt="Certificate" style="vertical-align:top;" height="25"> My Certificate </b> </summary>
+  <br>
 
+- 정보처리기사 (2020.11.12)
+- SQLD (2021.06.25)
 
+</details>
+
+<br>
+
+<details>
+
+<summary> <b> <img src="https://media.giphy.com/media/elDjuARwjXNky5Ms8f/giphy.gif" alt="trophy" style="vertical-align:top;" height="25"> My Projects </b> </summary>
+  <br>
+  
+  <a href="https://github.com/jun108059/Elasticsearch-SpringBoot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=elasticsearch-springBoot&theme=vue&show_icons=true" style="vertical-align:top; margin:4px" />
+  </a>
+  
+  <a href="https://github.com/jun108059/Membership-System">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=membership-system&theme=vue&show_icons=true"  style="vertical-align:top; margin:4px" />
+  </a>
+  
+  <a href="https://github.com/hanium2019/hanium_2019">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hanium2019&repo=hanium_2019&theme=vue&show_icons=true"  style="vertical-align:top; margin:4px" />
+  </a>
+
+  <a href="https://github.com/DSCHUFS/DSC-Solution-Challenge-2020">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DSCHUFS&repo=DSC-Solution-Challenge-2020&theme=vue&show_icons=true"  style="vertical-align:top; margin:4px" />
+  </a>
+
+  <a href="https://github.com/ESE-Lab/Kubeflow">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ESE-Lab&repo=Kubeflow&theme=vue&show_icons=true"  style="vertical-align:top; margin:4px" />
+  </a>
+
+  <a href="https://github.com/jun108059/IA_TeamProject">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jun108059&repo=IA_TeamProject&theme=vue&show_icons=true"  style="vertical-align:top; margin:4px" />
+  </a>
+
+  <a href="https://github.com/hufs-vrr/vrr">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hufs-vrr&repo=vrr&theme=vue&show_icons=true"  style="vertical-align:top; margin:4px" />
+  </a>
+
+<br>
+
+</details>
